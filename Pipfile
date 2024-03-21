@@ -8,6 +8,7 @@ flake8 = "*"
 black = "*"
 click = "*"
 requests = "*"
+requests-cache = "*"
 
 [dev-packages]
 

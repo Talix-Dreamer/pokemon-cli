@@ -9,6 +9,7 @@ black = "*"
 click = "*"
 requests = "*"
 requests-cache = "*"
+numpy = "*"
 
 [dev-packages]
 
